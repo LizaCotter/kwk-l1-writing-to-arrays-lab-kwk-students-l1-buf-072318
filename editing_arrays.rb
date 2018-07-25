@@ -1,4 +1,4 @@
-rainbow_colors = [
+RAINBOW_COLORS = [lmao} ur sTupID
   "yellow",
   "default",
   "light_cyan"
