@@ -18,7 +18,7 @@ def add_colors
   #Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
   RAINBOW_COLORS.push ("green")
   RAINBOW_COLORS.push ("blue")
-  #RAINBOW_COLORS
+  RAINBOW_COLORS
 end
 change_rainbow_colors
 puts add_colors
