@@ -1,6 +1,6 @@
 "red","light_red", "light_yellow", "green", and "blue".
 
-RAINBOW_COLORS = [lmao} ur sTupID
+RAINBOW_COLORS = [
   "yellow",
   "default",
   "light_cyan"
