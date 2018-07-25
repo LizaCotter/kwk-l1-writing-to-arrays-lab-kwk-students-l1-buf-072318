@@ -1,4 +1,4 @@
-"red","light_red", "light_yellow", "green", and "blue".
+#"red","light_red", "light_yellow", "green", and "blue".
 
 RAINBOW_COLORS = [
   "yellow",
