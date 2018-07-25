@@ -1,3 +1,5 @@
+"red","light_red", "light_yellow", "green", and "blue".
+
 RAINBOW_COLORS = [lmao} ur sTupID
   "yellow",
   "default",
@@ -6,6 +8,8 @@ RAINBOW_COLORS = [lmao} ur sTupID
 
 def change_rainbow_colors
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
+  RAINBOW_COLORS[0] = "red"
+  
 end
 
 def add_colors
