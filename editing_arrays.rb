@@ -20,6 +20,6 @@ def add_colors
   RAINBOW_COLORS.push ("blue")
   RAINBOW_COLORS
 end
-change_rainbow_colors
-puts add_colors
+# change_rainbow_colors
+# puts add_colors
 
